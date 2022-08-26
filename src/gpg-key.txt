@@ -1,0 +1,24 @@
+eal name: Emile Fraser
+Email address: efraser25@gmail.com
+You selected this USER-ID:
+    Emile Fraser <efraser25@gmail.com>
+
+Change (N)ame, (E)mail, or (O)kay/(Q)uit? o
+We need to generate a lot of random bytes. It is a good idea to perform
+some other action (type on the keyboard, move the mouse, utilize the
+disks) during the prime generation; this gives the random number
+generator a better chance to gain enough entropy.
+We need to generate a lot of random bytes. It is a good idea to perform
+some other action (type on the keyboard, move the mouse, utilize the
+disks) during the prime generation; this gives the random number
+generator a better chance to gain enough entropy.
+gpg: key D10CC9BBA7211774 marked as ultimately trusted
+gpg: directory '/home/pyromaniac/.gnupg/openpgp-revocs.d' created
+gpg: revocation certificate stored as '/home/pyromaniac/.gnupg/openpgp-revocs.d/333EFF9D1118C91BE4127E8AD10CC9BBA7211774.rev'
+public and secret key created and signed.
+
+pub   rsa3072 2022-08-26 [SC] [expires: 2024-08-25]
+      333EFF9D1118C91BE4127E8AD10CC9BBA7211774
+uid                      Emile Fraser <efraser25@gmail.com>
+sub   rsa3072 2022-08-26 [E] [expires: 2024-08-25]
+

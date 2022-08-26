@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Sun, 19 Apr 2020 17:43:21 +0000
+MD5Sum:
+ 8c17264f0eb939edaa82388920ebfcea             2849 Packages
+ 8f121319bc3a1d29742fb0ff25e96df3             1053 Packages.gz
+ 7b850e02e04e3a5f35f08aa798c88ffb               38 Release
+SHA1:
+ 141a077eb0bfe3f0179c79e2bb45a3aebdb65c26             2849 Packages
+ 7a07df50f88a660be91842d4a543abc6c80ad8fa             1053 Packages.gz
+ 68c2f9967a95697d1a88125bc549e79524f0509f               38 Release
+SHA256:
+ 6dbcc020aa3e40854e41e22e182db2a1dcbf80fbdfd5676d5cff25cc3101c68b             2849 Packages
+ 242570d26572c0684e9f24abcb05c67f270b07792402f48d0eecf5aad06fa218             1053 Packages.gz
+ 2b42400f2a8e8ae245204430f4a2fda466649598debd5767248120c052102aca               38 Release
+SHA512:
+ 54ebe590b5ab1fb789ce08f18de29376f2e70b95d97b7935821b03ee7f7f204b4b6c05701213d6b43830647f1f6b6ad2adbe814336880a8d30e2130bc2714f5f             2849 Packages
+ a5069276507d94224849e00bfc69e0f745ce6a26cee581cb58aa1a553767e259cf62eaed1dfada50a40b2ec8bfa73e3bd33adc42ad94f64c602ac52d7f341a64             1053 Packages.gz
+ cfcc3cfb233db055fb6e7e328aa5b4e5f1963aad16802312b87ce0a4bed7f267150f0706d3ce52e06302281ce484a3384b0d75b112355c1b34cddf8786160970               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEkReaoaZ8wks0GC9t0xsZ2EsuEgwFAl6cjbkACgkQ0xsZ2Esu
+EgykSw//XuATtQgTRRWMCbICUxjFREBsIVhefUOUT6ZD36Il/Qma1Hj0gQTziF0a
+ewude7YnmfV8Oj4w/3WK1FSdLpKP/QFzBZ1JEt5Mdse9IR+Gp/lkv/5+8uW5jTJa
+Bk2kaoa0mSkhryKt8CcJJUyD/sFF0aN4A8l0GL/qzL9YcpSZGOClIp2tyOSkDKKT
+VjczWm4TxjpxLkT+nglWaBw3ITRxaHKp+2/2Ot2vcmtwFuM3tcxmwc0omIzxM3XU
+IOd6LlsbrkzotkVWO4p+P9KjQwVPDGF3fdrVWZuBR6fbwihm3EV/ciRDuhdPnRrB
+xI1rhsNDB+uKO7q4hD7Wlz9ccaoSN39wPE4RNjUhJwj57fRSdG8l4BDbiDiA2OlG
+gblCpU+Uv37OfcT3joSMt2RyOZwjcqi/ROPnwvSKqkrC5ewzeon6jshboZEeO22K
+EZcpCk6NN4pB2+KcFR4flbjafkIUehOC0SvUNt1P1Lv1zNTu9iJr2y+FRbMICq+0
+/8jhONVoxU4rbwkMogeOwVeu9XRB3qeT4yxzB91SUmHbmOhS3tMbY2BnQcnIFIoE
+7ZRejQOmMIQ12CodtzZfxKf9cEJtzr7B/tNT+Hq76CK9zdNCMM4/HnOb2g3cXKWa
+ADTZrRWDUKXzYgjNGiq1g3j03VT/4eKyDFFR1VVZROgxAFsvLD4=
+=TEB0
+-----END PGP SIGNATURE-----

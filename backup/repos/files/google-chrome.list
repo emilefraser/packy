@@ -1,0 +1,5 @@
+### THIS FILE IS AUTOMATICALLY CONFIGURED ###
+# You may comment out this entry, but any other modifications may be lost.
+deb [arch=amd64] https://dl.google.com/linux/chrome/deb/ stable main
+
+# aptik-desc: google-chrome-beta google-chrome-stable google-chrome-unstable

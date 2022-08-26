@@ -1,0 +1,3 @@
+mkdir: created directory '/home/pyromaniac/.password-store/'
+Password store initialized for 333EFF9D1118C91BE4127E8AD10CC9BBA7211774
+
